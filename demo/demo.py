@@ -160,8 +160,6 @@ while True:
         print("Congratulations, you have completed the demo. Thank you for playing.")
         print("Press enter to exit.")
         if input() == "":
-            print("If you enjoyed the demo, please consider checking out the full game, which is currently in development.")
-            print("You can find more information about the game here: https://github.com/catman23yt/Containment-Breach/tree/main")
             exit()
 
     print("Press enter to continue")
